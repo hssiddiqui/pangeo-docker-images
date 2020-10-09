@@ -67,6 +67,7 @@ dependencies:
  - tiledb-py
  - xarray
  - xarray-spatial
+ - intake-xarray=0.3.1
  - xcape
  - xcube
  - xesmf
